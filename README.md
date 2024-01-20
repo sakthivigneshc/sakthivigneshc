@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sakthivignesh.C</h1>
-<h3 align="center">Programmer at Cognizant Technology Solutions</h3>
+<h3 align="center">Programmer - QEA at Cognizant Technology Solutions</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
